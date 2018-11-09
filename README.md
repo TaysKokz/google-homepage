@@ -1,0 +1,1 @@
+TaysKokz odin project first HTML CSS training project re-creating in basic form the google website's homepage
